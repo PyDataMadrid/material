@@ -8,3 +8,5 @@
   - [Joaquín Amat](https://www.linkedin.com/in/joaquin-amat-rodrigo/), Senior Data Scientist en Veeva, y [Javier Escobar](https://www.linkedin.com/in/javier-escobar-ortiz-3a9688111/), Data Scientist en Ikea, hablan de skforecast para predicción de series temporales con modelos de scikit-learn (en español).
     - **Presentación**: [skforecast: Predicción de series temporales con models scikit-learn](forecasting_machine_learning_skforecast_pydata.pdf)
     - **Notebook**: [skforecast: forecasting series temporales con Python y Scikit-learn](Skforecast_pydata.ipynb)
+
+- **Vídeo**: [Canal de Youtube de PyData Madrid](https://www.youtube.com/watch?v=BvKNmlFaq8Y)

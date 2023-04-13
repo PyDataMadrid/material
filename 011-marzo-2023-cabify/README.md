@@ -7,3 +7,5 @@
     - **Presentación**: [Ajustando precios con un buen MLOps](ajustando-precios-con-un-buen-mlops.pdf)
   - [Alejandro Vidal](https://www.linkedin.com/in/alejandro-v-508944bb/), ha dado una charla en la que explica como usar Python con GPT y Large Language Models en general de forma práctica (en español).
     - **Presentación**: [GPT al rescate: Python, ejemplos y aventuras en el mundo práctico de los LLMs](gpt-al-rescate.pdf)
+
+- **Vídeo**: [Canal de Youtube de PyData Madrid](https://www.youtube.com/watch?v=y4eEj77BDeU&t=3313s)
