@@ -10,4 +10,4 @@
     - **Presentación**: [Análisis de datos en tiempo real con Quix Streams](https://github.com/PyDataMadrid/material/blob/main/012-abril-2023-42madrid/An%C3%A1lisis%20de%20datos%20en%20tiempo%20real%20con%20Quix%20Streams.pdf)
     - **Material extra**: https://github.com/JotaBlanco/QuixStreamsNotebooks/tree/main/Conferences/PyDataMadrid
     
-- **Vídeo**: 
+- **Vídeo**: https://www.youtube.com/watch?v=FYbGwRQevRI
