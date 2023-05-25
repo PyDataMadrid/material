@@ -9,4 +9,4 @@
     - **Presentación**: [skforecast: Predicción de series temporales con models scikit-learn](forecasting_machine_learning_skforecast_pydata.pdf)
     - **Notebook**: [skforecast: forecasting series temporales con Python y Scikit-learn](Skforecast_pydata.ipynb)
 
-- **Vídeo**: [Canal de Youtube de PyData Madrid](https://www.youtube.com/watch?v=BvKNmlFaq8Y)
+- **Vídeo**: [PyData Madrid Febrero 2023 @ Cryptocafé 🧙 Exprimiendo la IA y series temporales con skforecast](https://www.youtube.com/watch?v=BvKNmlFaq8Y)
