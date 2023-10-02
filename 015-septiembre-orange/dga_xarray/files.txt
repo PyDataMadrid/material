@@ -1,0 +1,5 @@
+# Weather sample for the notebook example
+https://ax2glnucjyxk.objectstorage.eu-madrid-1.oci.customer-oci.com/n/ax2glnucjyxk/b/era5_samples/o/weather_at_pressure_levels.grib
+
+# Surface fields, for plotting
+https://ax2glnucjyxk.objectstorage.eu-madrid-1.oci.customer-oci.com/n/ax2glnucjyxk/b/era5_samples/o/surface_fields_mediterranean_sept2023.grib
